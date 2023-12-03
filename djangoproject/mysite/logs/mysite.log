@@ -1,0 +1,6 @@
+[03/Dec/2023 21:06:25] DEBUG [polls.views:21] vote().question_id: 4
+[03/Dec/2023 21:06:27] DEBUG [polls.views:21] vote().question_id: 4
+[03/Dec/2023 21:06:28] DEBUG [polls.views:21] vote().question_id: 4
+[03/Dec/2023 21:06:32] DEBUG [polls.views:21] vote().question_id: 1
+[03/Dec/2023 21:11:47] DEBUG [polls.views:21] vote().question_id: 4
+[03/Dec/2023 21:11:53] DEBUG [polls.views:21] vote().question_id: 1
